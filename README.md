@@ -107,11 +107,3 @@ This system ensures the smooth running of the league and enhances the experience
    - Generate financial performance reports.
 
 ---
-
-## 🛠️ Installation
-
-To set up the PSL Management System locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/psl-management-system.git# Pakistan_Super_League_Management_System_Project
